@@ -27,7 +27,7 @@
             <input type="radio" name="sexo" value="M"> Masculino
             <input type="radio" name="sexo" value="F"> Feminino
             <br>
-            <input type="submit" value="Enviar" class="btn bnt-sucess">
+            <input type="submit" value="Enviar" class="btn btn-sucess">
         </form>
     </div>
 </body>
